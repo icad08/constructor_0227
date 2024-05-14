@@ -12,9 +12,15 @@ class mahasiswa{
     void printAll();
 
     mahasiswa (string pnama){
-        nama = pnama
+        nama = pnama;
         setID();
     }
+};
+
+int mahasiswa::nim = 227;
+
+void mahasiswa ::setID(){
+    
 }
 
 int main()
