@@ -7,9 +7,16 @@ class mahasiswa{
     int nim;
     string nama;
 
-    pubilc
-}
+    pubilc :
+    mahasiswa(){
+        nim = 0;
+       nama ="";
+    };
 
+    mahasiswa (int iNim){
+        nim=iNim;
+    }
+}
 int main(){
 
 }
