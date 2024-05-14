@@ -28,8 +28,12 @@ void cetak (){
     cout << "NIM   :"<< nim << endl;
     cout << "Nama  :"<< nama << endl;
     cout  << endl;
-}
-}
+};
+};
 int main(){
-
+    mahasiswa mhs1;
+    mahasiswa mhs2(20);
+    mahasiswa mhs3("gyan");
+    mahasiswa mhs4(30, "fauzan")
+    
 }
