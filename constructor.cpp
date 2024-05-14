@@ -30,5 +30,10 @@ void mahasiswa ::printAll(){
 
 int main()
 {
+    mahasiswa mhs1("faqih dunk");
+    mahasiswa mhs2 ("junior ip13");
+    mahasiswa mhs3 ("hapis samba");
+    mahasiswa mhs4 ("panji tab samsung");
 
+    
 }
