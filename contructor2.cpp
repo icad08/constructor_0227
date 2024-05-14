@@ -32,6 +32,12 @@ void mahasiswa::setID(){
     }
     
 int main(){
- 
+    mahasiswa mhs1 ("ilam mellow");
+    mahasiswa mhs2("dikauki");
+
+    mahasiswa::setNim(227);
+    mahasiswa mhs3("dhikacuki");
+    mahasiswa mhs4 ("1qbal vario");
+
 }
 
