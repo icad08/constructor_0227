@@ -20,7 +20,12 @@ class mahasiswa{
 int mahasiswa::nim = 227;
 
 void mahasiswa ::setID(){
-    
+    id = ++nim;
+}
+void mahasiswa ::printAll(){
+    cout << "ID = " << id << endl;
+    cout << "NAMA = " << nama << endl;
+    cout << endl;
 }
 
 int main()
