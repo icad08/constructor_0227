@@ -2,7 +2,11 @@
 #include <string>
 using namespace std;
 
-int main(){
+class mahasiswa{
     
+}
+
+int main(){
+
 }
 
